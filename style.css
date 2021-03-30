@@ -71,8 +71,7 @@ button:hover {
 }
 
 /* heading */
-h3,
-label[for="new-task"] {
+.section-name {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -100,7 +99,7 @@ label[for="new-task"] {
 }
 
 /* new task */
-label[for="new-task"] {
+.section-name_new-task {
   display: block;
   margin: 0 0 20px;
 }
